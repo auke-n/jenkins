@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "I'm learning Jenkins"
 echo "This is $PASSED"
-NUM = $(($FIRSTNUMBER + $SECONDNUMBER))
+NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
